@@ -1,0 +1,17 @@
+TDate
+funciones de conversion:
+strtodate
+datetostr
+
+decodatedate(fecha,a,m,d)
+a,m,d:Word
+
+Objeto:TDateTimePicker
+Propiedades
+Kind:Elegir fecha u hora
+Date
+DateTime
+Objeto:MonthCalendar
+Propiedades
+Date
+Kind
