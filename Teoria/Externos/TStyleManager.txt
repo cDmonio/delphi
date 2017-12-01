@@ -3,7 +3,7 @@ Objeto:TStyleManager
 
 Propiedad
 StyleNames: El conjunto de todos los estilos activos actualmente.
-¿Como activamos varios estilos para tenerlos disponibles?
+Â¿Como activamos varios estilos para tenerlos disponibles?
 Proyect->Options->Appearance
 
 Metodo
