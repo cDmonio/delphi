@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/09/27 09:57:58.958,=C:\Users\optima\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/27 09:58:29.208,C:\Users\optima\Documents\Embarcadero\Studio\Projects\Propiedades Edit\Unit1.pas=C:\Users\optima\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/09/27 09:58:29.208,C:\Users\optima\Documents\Embarcadero\Studio\Projects\Propiedades Edit\Unit1.dfm=C:\Users\optima\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/09/27 09:58:29.997,C:\Users\optima\Documents\Embarcadero\Studio\Projects\Propiedades Edit\Project1.dproj=C:\Users\optima\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

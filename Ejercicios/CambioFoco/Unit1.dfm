@@ -1,0 +1,58 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Cambio de Foco'
+  ClientHeight = 201
+  ClientWidth = 447
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCanResize = FormCanResize
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 32
+    Top = 24
+    Width = 37
+    Height = 13
+    Caption = '&Nombre'
+    FocusControl = Edit1
+  end
+  object Label2: TLabel
+    Left = 208
+    Top = 24
+    Width = 42
+    Height = 13
+    Caption = '&Apellidos'
+    FocusControl = Edit2
+  end
+  object Label3: TLabel
+    Left = 8
+    Top = 144
+    Width = 431
+    Height = 13
+    AutoSize = False
+    Caption = 'Prueba de Seleccion'
+    OnClick = Label3Click
+  end
+  object Edit1: TEdit
+    Left = 32
+    Top = 64
+    Width = 121
+    Height = 21
+    TabOrder = 0
+    Text = 'Edit1'
+  end
+  object Edit2: TEdit
+    Left = 208
+    Top = 64
+    Width = 121
+    Height = 21
+    TabOrder = 1
+    Text = 'Edit2'
+  end
+end
