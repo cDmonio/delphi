@@ -1,2 +1,2 @@
 # delphi
-i Hate Delphi x)
+Aprendiendo Delphi x)
